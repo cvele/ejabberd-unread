@@ -11,7 +11,7 @@
          on_iq/1
         ]).
 
--include("ejabberd.hrl").
+% -include("ejabberd.hrl").
 -include("logger.hrl").
 -include("xmpp.hrl").
 -include("mod_muc.hrl").
